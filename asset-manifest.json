@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Postcard-Editor/static/css/main.c9acfbce.css",
+    "main.js": "/Postcard-Editor/static/js/main.714a5bee.js",
+    "static/js/787.907c4f0b.chunk.js": "/Postcard-Editor/static/js/787.907c4f0b.chunk.js",
+    "static/media/Nature.jpg": "/Postcard-Editor/static/media/Nature.14bc7175666f71e395e0.jpg",
+    "index.html": "/Postcard-Editor/index.html",
+    "main.c9acfbce.css.map": "/Postcard-Editor/static/css/main.c9acfbce.css.map",
+    "main.714a5bee.js.map": "/Postcard-Editor/static/js/main.714a5bee.js.map",
+    "787.907c4f0b.chunk.js.map": "/Postcard-Editor/static/js/787.907c4f0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9acfbce.css",
+    "static/js/main.714a5bee.js"
+  ]
+}
