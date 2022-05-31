@@ -25,6 +25,7 @@ export default function Data() {
     const newTextBlock = [...textBlock];
     newTextBlock.push("SUNNY");
     setTextBlock(newTextBlock);
+    setTextPositionLeft({ x: 0, y: 0 });
     const WIDTH = imgRef.current.clientWidth;
     setPropertyState({ width: WIDTH });
   }
